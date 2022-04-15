@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/maako/AndroidStudioProjects/Contact_Room/app/src/main/res/drawable/cercle_bg.xml" value="0.1345" />
+        <entry key="..\:/Users/maako/AndroidStudioProjects/Contact_Room/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.1345" />
+        <entry key="..\:/Users/maako/AndroidStudioProjects/Contact_Room/app/src/main/res/drawable/ic_baseline_phone_24.xml" value="0.1675" />
+        <entry key="..\:/Users/maako/AndroidStudioProjects/Contact_Room/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.1265" />
+        <entry key="..\:/Users/maako/AndroidStudioProjects/Contact_Room/app/src/main/res/drawable/ic_delete.xml" value="0.1345" />
+        <entry key="..\:/Users/maako/AndroidStudioProjects/Contact_Room/app/src/main/res/drawable/ic_search_24.xml" value="0.154" />
+        <entry key="..\:/Users/maako/AndroidStudioProjects/Contact_Room/app/src/main/res/drawable/ic_search_black_24dp.xml" value="0.175" />
+        <entry key="..\:/Users/maako/AndroidStudioProjects/Contact_Room/app/src/main/res/drawable/round_button.xml" value="0.1675" />
+        <entry key="..\:/Users/maako/AndroidStudioProjects/Contact_Room/app/src/main/res/layout/activity_add.xml" value="0.25" />
+        <entry key="..\:/Users/maako/AndroidStudioProjects/Contact_Room/app/src/main/res/layout/activity_info.xml" value="0.22" />
+        <entry key="..\:/Users/maako/AndroidStudioProjects/Contact_Room/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/maako/AndroidStudioProjects/Contact_Room/app/src/main/res/layout/activity_settings.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/maako/AndroidStudioProjects/Contact_Room/app/src/main/res/layout/activity_update.xml" value="0.1" />
+        <entry key="..\:/Users/maako/AndroidStudioProjects/Contact_Room/app/src/main/res/layout/actuvity_add.xml" value="0.16485507246376813" />
+        <entry key="..\:/Users/maako/AndroidStudioProjects/Contact_Room/app/src/main/res/layout/item_list.xml" value="0.22" />
+        <entry key="..\:/Users/maako/AndroidStudioProjects/Contact_Room/app/src/main/res/layout/list_row_main.xml" value="0.16485507246376813" />
+        <entry key="..\:/Users/maako/AndroidStudioProjects/Contact_Room/app/src/main/res/menu/add_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/maako/AndroidStudioProjects/Contact_Room/app/src/main/res/menu/main_menu.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
